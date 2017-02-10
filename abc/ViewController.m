@@ -75,6 +75,11 @@
     //删除数据
     [context deleteObject:xiaomei];
     [context save:nil];
+    
+    
+    NSLog(@"sdasdadadadsa");
+    
+    
 }
 
 
